@@ -46,7 +46,6 @@ You'll also need to obtain API keys for Etherscan and BSCscan, as well as a Tele
 
 ## Screenshots
 
-  <img src="images/image3.png" width="505" height="395" />
   <img src="images/image2.png" width="509" height="380" />
   <img src="images/image1.png" width="470" height="175" />
 </p>
